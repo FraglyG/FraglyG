@@ -1,1 +1,1 @@
-<iframe title="ISDev Logo" src="./source/logos/logo-small.html" id="logo-container"></iframe>
+![isdev logo animation](./media/isdev_logo_anim.gif)
